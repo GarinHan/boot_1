@@ -60,7 +60,7 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.garin.boot_1.Boot1Application</mainClass>
-                    <skip>true</skip>
+<!--                    <skip>true</skip>-->
                 </configuration>
                 <executions>
                     <execution>
